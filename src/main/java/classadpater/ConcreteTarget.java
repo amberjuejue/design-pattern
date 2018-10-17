@@ -1,4 +1,4 @@
-package adapter.classadpater;
+package classadpater;
 
 /**
  * @author wangyujue
