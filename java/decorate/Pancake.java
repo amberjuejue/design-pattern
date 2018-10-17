@@ -1,3 +1,5 @@
+package decorate;
+
 /**
  * @author wangyujue
  */

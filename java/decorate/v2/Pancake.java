@@ -1,4 +1,4 @@
-package v2;
+package decorate.v2;
 
 /**
  * @author wangyujue
