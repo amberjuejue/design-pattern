@@ -1,4 +1,4 @@
-package classadpater;
+package adapter.objectadapter;
 
 /**
  * @author wangyujue
@@ -6,6 +6,6 @@ package classadpater;
 public class ConcreteTarget implements Target {
     @Override
     public void request() {
-
+        System.out.println("ConcreteTarget");
     }
 }
